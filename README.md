@@ -147,10 +147,11 @@ git push origin your-feature-name
 * Google for Gemini API
 * React Community
 * Vercel for hosting (Optional if you deploy)
+* Special thanks to GreatStack for their inspiring Gemini Clone tutorial 🙌
 
 ---
 
-### 💜 Created By: **Ankita Bhasar**
+
 
 > Thank you for checking out Gemini Clone!...
 > Happy Coding! 👩‍💻✨
