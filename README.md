@@ -1,4 +1,4 @@
-# <img src="https://www.gstatic.com/lamda/images/gemini_logo.svg" width="28" /> Gemini Clone
+#  Gemini Clone
 
 > A modern AI Chat App powered by **Google Gemini API** built using **React + Vite**
 
