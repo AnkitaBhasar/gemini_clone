@@ -1,4 +1,4 @@
-#  Gemini Clone
+# Gemini Clone
 
 > A modern AI Chat App powered by **Google Gemini API** built using **React + Vite**
 
